@@ -1,0 +1,8 @@
+.title{color: red;}
+.container{display: flex;
+justify-content: center;
+justify-content: space-around;
+margin-left: 300px;
+margin-right: 300px;
+margin-bottom: 50px;}
+.images{border-radius: 25%;}
